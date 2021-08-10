@@ -8,5 +8,5 @@ Easy start: Press "Record" and say something.
 ![preview](./ReadmeDoc/Audio-reverse_mainMenu.png)
 
 
-Using left and right arrows you can change tip to next of previous palindrom.
+Using left and right arrows you can change tip to next or previous palindrom.
 <br />Press "Magic wand" to let the algorithm reverse audio and enjoy with your "Abracadabra".
