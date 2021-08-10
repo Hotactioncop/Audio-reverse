@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/magic_wand.png</file>
+        <file>image/left_arrow.png</file>
+        <file>image/right_arrow.png</file>
+        <file>image/left_arrow_disabled.png</file>
+        <file>image/magic_wand_disabled.png</file>
+        <file>image/right_arrow_disabled.png</file>
+        <file>image/save.png</file>
+        <file>image/save_disabled.png</file>
+        <file>image/microphone.png</file>
+        <file>docs/Palindrome_en_US.txt</file>
+        <file>docs/Palindrome_ru_RU.txt</file>
+    </qresource>
+</RCC>
